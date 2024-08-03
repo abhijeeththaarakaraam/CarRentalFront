@@ -1,0 +1,27 @@
+.add-car-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-car-container h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .add-car-container hr {
+    margin-bottom: 20px;
+  }
+  
+  .add-car-container form .ant-form-item-label {
+    font-weight: bold;
+  }
+  
+  .add-car-container form .ant-btn-primary {
+    width: 100%;
+  }
+  
